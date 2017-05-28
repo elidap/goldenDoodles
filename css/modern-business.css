@@ -91,3 +91,38 @@ footer {
         height: 70%;
     }
 }
+
+.activeRow {
+background-color: #d9d9d9;
+border-radius: 5px;
+margin: 0 auto;
+width: 100%;
+}
+
+.imageDown {
+  margin-top: 10px;
+}
+
+.navbar {
+
+}
+
+.bluePic {
+  background-color: #80ced6;
+
+}
+
+.chikaAbout {
+    float: left;
+    left: 0px;
+    border: 3px solid #80ced6;
+
+}
+
+.moveRight {
+  float: right;
+}
+
+.moveBitRight {
+  margin-left: 120px;
+}
